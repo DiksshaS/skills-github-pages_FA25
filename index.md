@@ -12,5 +12,5 @@ Here I'm testing *italics* and **bold**
 ## Section2 
 
 Here I'm testing lists: 
--Item 1
--Item 2
+- Item 1
+- Item 2
